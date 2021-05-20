@@ -1,0 +1,29 @@
+body
+{
+	background-color: powderblue;
+	background-position: center;
+	font-family: sans-serif;
+	background-size: cover; 
+}
+h1
+{
+	color: red;
+}
+.option
+{
+	color: "red";
+}
+.active, .option:hover
+{
+	background: coral;
+	border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    display: block;
+    margin-left: 23%;
+    margin-right: 23%
+}
+a
+{
+	text-decoration: none;
+}
